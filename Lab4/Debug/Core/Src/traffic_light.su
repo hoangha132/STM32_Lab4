@@ -1,0 +1,4 @@
+traffic_light.c:11:6:setTraffic	16	static
+traffic_light.c:16:6:set_X_axis_light	24	static
+traffic_light.c:21:6:set_Y_axis_light	24	static
+traffic_light.c:27:6:countDown	4	static
